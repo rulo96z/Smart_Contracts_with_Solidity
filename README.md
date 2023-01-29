@@ -28,7 +28,7 @@ This company is disrupting the finance industry with its own cross-border, Ether
 # Contribution 
 This code was shared in 2022 Education Services at UCB. 
 
-Additional updates/ uploads for usability was added by rulo.nogales@nogalesinvestments.com
+Additional updates/ uploads for usability was added by raul@nogalesfundmgmt.com 
 # License
 MIT License
 
